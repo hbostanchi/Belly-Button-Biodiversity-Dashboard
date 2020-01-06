@@ -1,5 +1,5 @@
 # Belly-Button-Biodiversity-Dashboard
-##Module Overview
+## Module Overview
 In this module, you will use Plotly.js, a JavaScript data visualization library, to create an interactive data visualization for the web. The completed work will be displayed in a portfolio you create.
 By the end of this module, we will be able to:
 Create basic plots with Plotly, including bar charts, line charts, and pie charts.
@@ -11,15 +11,15 @@ Create basic plots with Plotly, including bar charts, line charts, and pie chart
 •	How to use interactivity to enhance your visualizations.
 •	Deploy an interactive chart to GitHub Pages.
 
-##Resources
+## Resources
 •	Data Source: index.html,  plots.js, samples.json, 
 •	Software: VS Code, Web browser, Command-line interface, GitHub
-##Summary
+## Summary
 This is a simple line chart with three data points. Notice that gridlines are supplied automatically.if we place our mouse over the top right corner of the chart, and you’ll see the following menu appear. It has options such as zoom, zoom out, and pan. This menu also comes with the Plotly library and will be available for every visualization you create.
 ![1](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/1.png)
 ![2](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/2.png)
 In the Demographics Info panel, display all the key-value pairs of the selected individual’s demographic data. The result should look like the following:
-##Challenge Overview
+## Challenge Overview
 Continue working with the samples.json dataset, and complete the following tasks.
 
 When an individual’s ID is selected, the top 10 bacterial species (OTUs) should be visualized with a bar chart. Create a horizontal bar chart to display the top 10 OTUs found in that individual.

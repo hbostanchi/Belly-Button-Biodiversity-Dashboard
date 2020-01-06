@@ -16,8 +16,8 @@ Create basic plots with Plotly, including bar charts, line charts, and pie chart
 •	Software: VS Code, Web browser, Command-line interface, GitHub
 ##Summary
 This is a simple line chart with three data points. Notice that gridlines are supplied automatically.if we place our mouse over the top right corner of the chart, and you’ll see the following menu appear. It has options such as zoom, zoom out, and pan. This menu also comes with the Plotly library and will be available for every visualization you create.
-![](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/1.png)
-![](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/2.png)
+![1](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/1.png)
+![2](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/2.png)
 In the Demographics Info panel, display all the key-value pairs of the selected individual’s demographic data. The result should look like the following:
 ##Challenge Overview
 Continue working with the samples.json dataset, and complete the following tasks.
@@ -28,10 +28,10 @@ Use otu_ids as the labels for the bar chart.
 Use otu_labels as the hover text for the chart.
 Your bar chart should look like the following.
 
-![](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/3.png)
+![3](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/3.png)
 In the Demographics Info panel, display all the key-value pairs of the selected individual’s demographic data. The result should look like the following:
 
-![](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/4.png)
+![4](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/4.png)
 Create a bubble chart that displays each sample:
 Use otu_ids for the x-axis values.
 Use sample_values for the y-axis values.

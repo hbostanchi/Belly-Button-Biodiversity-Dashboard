@@ -130,31 +130,3 @@ var trace3 = {
     },
     type: "pie"
 };
-var data3 = [trace3];
-
-var metadata = data.metadata;
-var resultArray = metadata.filter(sampleObj => sampleObj.id == sample);
-var result = resultArray[0];
-var wfreq = result.wfreq;
-var needleAngle = wfreq * 0.34906585;
-
-var layout = {
-    title: "<b>Belly Button Washing Frequency</b><br>Scrubs per Week",
-    showlegend: false,
-    shapes: [{
-        type: "line",
-        x0: 0.5,
-        y0:0.5,
-        x1: 0.5 - 0.2 * Math.cos(needleAngle),
-        y1: 0.5 + 0.2 * Math.sin(needleAngle),
-        line: {
-            color: "black",
-            width: 3
-        }
-    }],
-    xaxis: {visible: false, range: [-1,1]},
-    yaxis: {visible: false, range: [-1,1]}
-};
-Plotly.newPlot("gauge", data3, layout);
-});
-}

@@ -12,8 +12,8 @@ Create basic plots with Plotly, including bar charts, line charts, and pie chart
 •	Deploy an interactive chart to GitHub Pages.
 
 ## Resources
-•	Data Source: index.html,  plots.js, samples.json, 
-•	Software: VS Code, Web browser, Command-line interface, GitHub
+•Data Source: index.html,  plots.js, samples.json, 
+•Software: VS Code, Web browser, Command-line interface, GitHub
 ## Summary
 This is a simple line chart with three data points. Notice that gridlines are supplied automatically.if we place our mouse over the top right corner of the chart, and you’ll see the following menu appear. It has options such as zoom, zoom out, and pan. This menu also comes with the Plotly library and will be available for every visualization you create.
 ![1](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/1.png)

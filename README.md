@@ -38,3 +38,9 @@ Use sample_values for the y-axis values.
 Use sample_values for the marker size.
 Use otu_ids for the marker colors.
 Use otu_labels for the text values.
+![5](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/5.png)
+When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard. In other words, the dashboard should not be blank when a user opens it in a browser.
+When a new ID number is selected from the dropdown menu, all the plots and the info panel should be updated.
+Customize the layout to create an attractive dashboard. Use your imagination!
+The completed project should resemble the following dashboard, though it should not be identical:
+![6](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/6.png)

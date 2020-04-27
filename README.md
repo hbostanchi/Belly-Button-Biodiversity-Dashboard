@@ -44,3 +44,5 @@ When a new ID number is selected from the dropdown menu, all the plots and the i
 Customize the layout to create an attractive dashboard. Use your imagination!
 The completed project should resemble the following dashboard, though it should not be identical:
 ![6](https://github.com/hbostanchi/Belly-Button-Biodiversity-Dashboard/blob/master/images/6.png)
+
+#[Dashboard Live Demo](https://hbostanchi.github.io/Belly-Button-Biodiversity-Dashboard/)
